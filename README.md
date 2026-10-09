@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KorbynTalks
 - 👀 I’m interested in Coding and Gaming.
-- 🌱 I’m currently learning Powershell, Batch, Java, and C#.
+- 🌱 I’m currently learning Java, and C#.
 - 📫 Reach me on Discord "korbyntalks" or email "Korbyn052811@outlook.com"
 - 😄 Pronouns: He/Him
 
