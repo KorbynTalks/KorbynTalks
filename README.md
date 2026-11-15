@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @KorbynTalks
-- 👀 I’m interested in Coding and Gaming.
-- 🌱 I’m currently learning Java, and C#.
-- 📫 Reach me on Discord "korbyntalks" or email "Korbyn052811@outlook.com"
-- 😄 Pronouns: He/Him
+Hello! I make stuff for fun and to also potentially help someone out or make someones day (:
 
 <!---
 KorbynTalks/KorbynTalks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
